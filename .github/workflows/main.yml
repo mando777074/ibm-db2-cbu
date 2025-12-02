@@ -1,4 +1,4 @@
-name: npm nodejs-75
+name: npm nodejs-77
 
 on:
   push:
